@@ -6,14 +6,13 @@ I find it's a good way to learn a new language, you see :)
 ## Implementations
 
 - [Java](https://github.com/Keithagy/crafting-interpreters-java)
+- [C](https://github.com/Keithagy/crafting-interpreters-c)
 
 ## Planned
 
-- C
 - Go
 - Rust
 - Haskell
 - Zig
 - Ocaml
 - CommonLisp
-
